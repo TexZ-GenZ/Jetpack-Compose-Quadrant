@@ -1,5 +1,4 @@
 Compose Quadrant : 
-![image](https://github.com/TexZ-GenZ/Jetpack-Compose-Quadrant/assets/90178250/76a1e2ab-c3c5-4b86-938b-8aa1dbe017b2)
 
 Description:
 
@@ -27,3 +26,7 @@ Text Composable: Displays text in accordance with Material Design guidelines.
 Image Composable: Creates and lays out images utilizing a given Painter class object.
 Row Composable: Arranges children components in a horizontal sequence.
 Column Composable: Organizes children components in a vertical sequence.
+
+Final Output:
+![image](https://github.com/TexZ-GenZ/Jetpack-Compose-Quadrant/assets/90178250/02879c06-5d54-4f4a-bddb-86ad69d6a013)
+
